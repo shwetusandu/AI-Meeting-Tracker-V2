@@ -48,6 +48,30 @@ Output:
 
 ---
 
+## Images
+
+# Make.com Workflow
+
+![AI-Meeting-Tracker-V2](docs/images/Make-Workflow.png)
+
+# FrontEnd
+
+![AI-Meeting-Tracker-V2](docs/images/Executive-Dashboard.png)
+![AI-Meeting-Tracker-V2](docs/images/Meeting-Dashboard.png)
+![AI-Meeting-Tracker-V2](docs/images/Risk-Dashboard.png)
+![AI-Meeting-Tracker-V2](docs/images/Analytics-Dashboard.png)
+![AI-Meeting-Tracker-V2](docs/images/Tasks-Dashboard.png)
+![AI-Meeting-Tracker-V2](docs/images/Setting-Dashboard.png)
+
+# Generated from Make.com
+
+![AI-Meeting-Tracker-V2](docs/images/Sample-Gmail.png)
+![AI-Meeting-Tracker-V2](docs/images/Sample-Jira-Ticket.png)
+![AI-Meeting-Tracker-V2](docs/images/Sample-Slack-Message.png)
+![AI-Meeting-Tracker-V2](docs/images/Sample-Slack-Remainder-Message.png)
+
+---
+
 ## Required Tools To Install
 
 ## Backend
@@ -452,28 +476,6 @@ https://your-ngrok-url.ngrok-free.app
 ```
 
 ---
-
-## Images
-
-# Make.com Workflow
-
-![AI-Meeting-Tracker-V2](docs/Images/Make-Workflow.png)
-
-# FrontEnd
-
-![AI-Meeting-Tracker-V2](docs/Images/Executive-Dashboard.png)
-![AI-Meeting-Tracker-V2](docs/Images/Meeting-Dashboard.png)
-![AI-Meeting-Tracker-V2](docs/Images/Risk-Dashboard.png)
-![AI-Meeting-Tracker-V2](docs/Images/Analytics-Dashboard.png)
-![AI-Meeting-Tracker-V2](docs/Images/Tasks-Dashboard.png)
-![AI-Meeting-Tracker-V2](docs/Images/Setting-Dashboard.png)
-
-# Generated from Make.com
-
-![AI-Meeting-Tracker-V2](docs/Images/Sample-Gmail.png)
-![AI-Meeting-Tracker-V2](docs/Images/Sample-Jira-Ticket.png)
-![AI-Meeting-Tracker-V2](docs/Images/Sample-Slack-Message.png)
-![AI-Meeting-Tracker-V2](docs/Images/Sample-Slack-Remainder-Message.png)
 
 ## Real Challenges Solved
 
