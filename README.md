@@ -28,6 +28,24 @@ Most teams attend meetings but lose accountability afterward.
 
 This platform converts conversations into measurable execution systems.
 
+Input:
+- Meeting transcript
+- Uploaded text file
+- Automation webhook payload
+
+Output:
+- Action items
+- Owners
+- Deadlines
+- Priority levels
+- Jira ticket types
+- Risks
+- Escalations
+- Follow-ups
+- Manager summary
+- Email summary draft
+- Analytics signals
+
 ---
 
 ## Required Tools To Install
@@ -102,6 +120,19 @@ AI Meeting Tracker V2/
 
 ---
 
+## Tech Stack
+
+- Python
+- FastAPI
+- React
+- Make.com
+- Groq LLM API
+- Google Sheets API
+- ngrok
+- JSON APIs
+
+---
+
 ## Where Files Should Be Placed
 
 ## backend/
@@ -137,6 +168,37 @@ Place:
 
 ---
 
+## Architecture
+
+Frontend:
+- React dashboard
+- Transcript upload UI
+- KPI metrics
+- Charts and meeting visibility
+
+Backend:
+- FastAPI REST API
+- Multi-agent orchestration engine
+- JSON response layer
+- Validation and normalization logic
+
+Automation Layer:
+- Make.com scenarios
+- HTTP webhook triggers
+- Downstream routing
+- Task creation
+- Notifications
+- Logging
+
+Tunnel / External Access:
+- ngrok public endpoint for local development
+
+Data Layer:
+- Google Sheets logging tables
+- Dashboard metrics source
+
+---
+
 ## Architecture Flowchart
 
 ```text
@@ -166,21 +228,72 @@ Make.com Downstream Flows
 ```
 
 ---
+## AI Agent System
 
-## AI Agent Responsibilities
+This project uses a multi-agent design where each agent has one clear responsibility.
 
-- Summary Agent
-- Actions Agent
-- Risk Agent
-- Decision Agent
-- Priority Agent
-- Manager Summary Agent
-- Memory Agent
-- Follow-up Agent
-- Email Agent
-- Escalation Agent
-- Analytics Agent
-- Owner Resolver Agent
+### 1. Summary Agent
+Creates concise meeting summaries for leaders and stakeholders.
+
+### 2. Actions Agent
+Extracts tasks with:
+- owner
+- task description
+- deadline
+- priority
+- Jira type
+
+### 3. Risk Agent
+Detects blockers, delays, dependencies, and delivery threats.
+
+### 4. Decision Agent
+Captures approved decisions made during meetings.
+
+### 5. Priority Agent
+Flags urgent work and delivery-critical actions.
+
+### 6. Jira Classifier Agent
+Maps work into:
+- Bug
+- Story
+- Task
+- Epic
+
+### 7. Manager Summary Agent
+Creates executive-level short updates.
+
+### 8. Memory Agent
+Captures recurring themes and historical context signals.
+
+### 9. Follow-up Agent
+Builds next-step reminders and pending actions.
+
+### 10. Email Agent
+Drafts post-meeting summary emails.
+
+### 11. Escalation Agent
+Detects high-priority unresolved work needing attention.
+
+### 12. Analytics Agent
+Produces operational metrics from meetings.
+
+### 13. Owner Resolver Agent
+Maps ambiguous actions to likely owners.
+
+---
+
+## MCP Server Usage
+
+This project was structured as a meeting MCP server workflow.
+
+MCP concepts used:
+- Tool-style modular agents
+- Server-side orchestration
+- Structured request / response processing
+- Reusable capability modules
+- External automation connectivity
+
+The backend acts as a meeting intelligence server that can be extended with more tools and agents.
 
 ---
 
@@ -359,6 +472,15 @@ AI Meeting Tracker V2 is a real-world AI operations platform.
 
 It transforms meetings into execution systems using AI agents, automation, APIs, and business workflows.
 
-This demonstrates practical AI engineering and production thinking.
+This project demonstrates:
+
+- practical AI engineering and production thinking
+- Applied AI systems design
+- Workflow automation
+- Backend engineering
+- Multi-agent orchestration
+- Real debugging skills
+- Production thinking
+- Business process transformation
 
 ---
