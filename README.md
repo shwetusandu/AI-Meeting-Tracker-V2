@@ -457,23 +457,23 @@ https://your-ngrok-url.ngrok-free.app
 
 # Make.com Workflow
 
-!(AI-Meeting-Tracker-V2)[docs/Images/Make-Workflow.png]
+![AI-Meeting-Tracker-V2](docs/Images/Make-Workflow.png)
 
 # FrontEnd
 
-!(AI-Meeting-Tracker-V2)[docs/Images/Executive-Dashboard.png]
-!(AI-Meeting-Tracker-V2)[docs/Images/Meeting-Dashboard.png]
-!(AI-Meeting-Tracker-V2)[docs/Images/Risk-Dashboard.png]
-!(AI-Meeting-Tracker-V2)[docs/Images/Analytics-Dashboard.png]
-!(AI-Meeting-Tracker-V2)[docs/Images/Tasks-Dashboard.png]
-!(AI-Meeting-Tracker-V2)[docs/Images/Setting-Dashboard.png]
+![AI-Meeting-Tracker-V2](docs/Images/Executive-Dashboard.png)
+![AI-Meeting-Tracker-V2](docs/Images/Meeting-Dashboard.png)
+![AI-Meeting-Tracker-V2](docs/Images/Risk-Dashboard.png)
+![AI-Meeting-Tracker-V2](docs/Images/Analytics-Dashboard.png)
+![AI-Meeting-Tracker-V2](docs/Images/Tasks-Dashboard.png)
+![AI-Meeting-Tracker-V2](docs/Images/Setting-Dashboard.png)
 
 # Generated from Make.com
 
-!(AI-Meeting-Tracker-V2)[docs/Images/Sample-Gmail.png]
-!(AI-Meeting-Tracker-V2)[docs/Images/Sample-Jira-Ticket.png]
-!(AI-Meeting-Tracker-V2)[docs/Images/Sample-Slack-Message.png]
-!(AI-Meeting-Tracker-V2)[docs/Images/Sample-Slack-Remainder-Message.png]
+![AI-Meeting-Tracker-V2](docs/Images/Sample-Gmail.png)
+![AI-Meeting-Tracker-V2](docs/Images/Sample-Jira-Ticket.png)
+![AI-Meeting-Tracker-V2](docs/Images/Sample-Slack-Message.png)
+![AI-Meeting-Tracker-V2](docs/Images/Sample-Slack-Remainder-Message.png)
 
 ## Real Challenges Solved
 
