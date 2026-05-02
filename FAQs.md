@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document contains interview questions and strong answer directions based on the AI Meeting Tracker V2 project.
+This document contains important questions and strong answer directions based on the AI Meeting Tracker V2 project.
 
 ---
 
