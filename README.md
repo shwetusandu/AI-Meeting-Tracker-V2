@@ -48,6 +48,12 @@ Output:
 
 ---
 
+## Infographic Overview
+
+![](docs/images/AI-Meeting-Tracker-with-MCP-V2.png)
+
+---
+
 ## Images
 
 # Make.com Workflow
